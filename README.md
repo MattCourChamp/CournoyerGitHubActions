@@ -7,6 +7,8 @@
 
 # Hello GitHub Actions
 
+This is a completely arbitrary change.
+
 _Create a GitHub Action and use it in a workflow._
 
 <!--
